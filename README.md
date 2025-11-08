@@ -158,12 +158,16 @@ Notre mission est de transformer des idées en identités visuelles uniques et m
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Star.png" alt="Star" width="25" height="25" /> Star mes repos si vous les trouvez utiles ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Star.png" alt="Star" width="25" height="25" />
+  ⭐ Star mes repos si vous les trouvez utiles ! ⭐
 </div>
 
 <h4 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech × Design = Innovation <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" height="25" />
+  💻 Tech × Design = Innovation 🎨
 </h4>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80" alt="Innovative">
+</div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
