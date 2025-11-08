@@ -141,12 +141,30 @@ Notre mission est de transformer des idées en identités visuelles uniques et m
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=halid13&color=blueviolet&style=for-the-badge" alt="Profile views">
+
+```
   
-  ### 💝 Merci de votre visite !
-  
-  ```ascii
-  ⭐ N'hésitez pas à star mes repos si vous les trouvez utiles ! ⭐
-  ```
-  
-  *"La technologie et le design sont deux faces d'une même pièce : l'innovation"*
+     _________ ___  ___  ________  ________   ___  __    ________      
+    |\___   ___\\  \|\  \|\   __  \|\   ___  \|\  \|\  \ |\   ____\     
+    \|___ \  \_\ \  \\\  \ \  \|\  \ \  \\ \  \ \  \/  /|\ \  \___|     
+         \ \  \ \ \   __  \ \   __  \ \  \\ \  \ \   ___  \ \  \  ___   
+          \ \  \ \ \  \ \  \ \  \ \  \ \  \\ \  \ \  \\ \  \ \  \|\  \  
+           \ \__\ \ \__\ \__\ \__\ \__\ \__\\ \__\ \__\\ \__\ \_______\ 
+            \|__|  \|__|\|__|\|__|\|__|\|__| \|__|\|__| \|__|\|_______|
+```
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merci+de+votre+visite+!+👋;Thanks+for+visiting+!+👋;+" />
+</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Star.png" alt="Star" width="25" height="25" /> Star mes repos si vous les trouvez utiles ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Star.png" alt="Star" width="25" height="25" />
+</div>
+
+<h4 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech × Design = Innovation <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" height="25" />
+</h4>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
