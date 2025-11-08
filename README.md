@@ -113,6 +113,20 @@ Je suis un Ingénieur Réseaux & Systèmes passionné par l'automatisation et le
 
 </div>
 
+## 🎨 Hobbies & Entrepreneuriat
+
+<div align="center">
+
+### MOH_CREA - Studio de Design
+![Design](https://img.shields.io/badge/Design-Créativité_&_Innovation-FF69B4?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+
+En parallèle de mon parcours tech, je suis passionné par le design graphique et j'ai fondé **MOH_CREA**, un studio de design créatif.
+Notre mission est de transformer des idées en identités visuelles uniques et mémorables.
+
+[![Instagram MOH_CREA](https://img.shields.io/badge/Instagram-MOH__CREA-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moh_crea13/)
+
+</div>
+
 ## 📫 Contact
 
 <div align="center">
