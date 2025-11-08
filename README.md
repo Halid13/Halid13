@@ -141,4 +141,12 @@ Notre mission est de transformer des idées en identités visuelles uniques et m
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=halid13&color=blueviolet&style=for-the-badge" alt="Profile views">
+  
+  ### 💝 Merci de votre visite !
+  
+  ```ascii
+  ⭐ N'hésitez pas à star mes repos si vous les trouvez utiles ! ⭐
+  ```
+  
+  *"La technologie et le design sont deux faces d'une même pièce : l'innovation"*
 </div>
