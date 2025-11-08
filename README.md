@@ -26,7 +26,7 @@ Je suis un Ingénieur Réseaux & Systèmes passionné par l'automatisation et le
 ## 🛠️ Technologies & Outils
 
 ### 🌐 Réseaux & Cloud
-<div align="left">
+<div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![VLAN](https://img.shields.io/badge/VLAN-00C7B7?style=flat-square&logo=cisco&logoColor=white)
@@ -83,7 +83,7 @@ Je suis un Ingénieur Réseaux & Systèmes passionné par l'automatisation et le
 
 ## 🎓 Certifications
 
-<div align="center">
+<div align="left">
 
 ![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-Certified_Associate_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
