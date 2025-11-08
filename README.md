@@ -158,17 +158,11 @@ Notre mission est de transformer des idées en identités visuelles uniques et m
 </h3>
 
 <div align="center">
-  ⭐ Star mes repos si vous les trouvez utiles ! ⭐
+  <h4>Si mes projets vous inspirent, laissez une étoile ! ✨<br>
+  <sub>Votre soutien me motive à créer davantage ⭐</sub></h4>
 </div>
 
 <h4 align="center">
   💻 Tech × Design = Innovation 🎨
 </h4>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80" alt="Innovative">
-</div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
