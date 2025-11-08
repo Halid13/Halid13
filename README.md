@@ -19,30 +19,35 @@ Je suis un Ingénieur Réseaux & Systèmes passionné par l'automatisation et le
 - 🔄 Automatisation et scripting
 - �️ Sécurité des infrastructures
 - 📊 Monitoring et supervision réseau
-- � Gestion des services IT (ITIL)
+- � Gestion des services IT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halid13&label=Profile%20views&color=0e75b6&style=flat" alt="halid13" /> </p>
 
 ## 🛠️ Technologies & Outils
 
-### 🌐 Réseaux
+### 🌐 Réseaux & Cloud
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-00C7B7?style=flat-square&logo=cisco&logoColor=white)
 ![PfSense](https://img.shields.io/badge/PfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-0077FF?style=flat-square&logo=openvpn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-F80000?style=flat-square&logo=asterisk&logoColor=white)
 
 </div>
 
-### 💻 Systèmes & Services
+### 💻 Systèmes & Conteneurisation
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 </div>
@@ -68,13 +73,33 @@ Je suis un Ingénieur Réseaux & Systèmes passionné par l'automatisation et le
 
 ### 💻 Administration Systèmes
 - **Virtualisation** : Déploiement et gestion d'environnements VMware
-- **Services Windows** : Administration Active Directory, Exchange, GPO
-- **Monitoring** : Mise en place de solutions de supervision (Zabbix, Grafana)
+- **Services Windows** : Administration Active Directory
+- **Monitoring** : Mise en place de solutions de supervision (Zabbix)
 
 ### 🔧 Automatisation & Scripts
 - **Scripts PowerShell** : Automatisation des tâches système Windows
 - **Scripts Python** : Développement d'outils de monitoring et reporting
 - **Documentation** : Mise en place de procédures et documentation technique
+
+## 🎓 Certifications
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-Certified_Associate_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Computer_Hardware_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network_Addressing_and_Basic_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cloud](https://img.shields.io/badge/Introduction_to-Cloud_Computing-0089D6?style=for-the-badge&logo=icloud&logoColor=white)
+
+</div>
+
+## 🏆 GitHub Trophées
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=halid13&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## 📊 Statistiques GitHub
 
